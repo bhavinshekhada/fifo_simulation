@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Data Out: 00, Empty: 1, Full: 0
+Data Out: 00, Empty: 1, Full: 0
+Data Out: 00, Empty: 1, Full: 0
+Data Out: 00, Empty: 1, Full: 0
+Data Out: 00, Empty: 0, Full: 0
+Data Out: 00, Empty: 0, Full: 0
+Data Out: aa, Empty: 1, Full: 0
+$finish called at time : 70 ns : File "C:/Users/Dell/fifo/fifo.srcs/sim_1/new/tb.v" Line 52
